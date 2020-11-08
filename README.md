@@ -1,3 +1,9 @@
+#### 最新バージョン
+ファームウェア: 1.0.0c  
+設定ツール: 1.1.0.0  
+最終更新日: 2020/10/18  
+最終更新内容: 初版リリース  
+
 #  REVIVE USB ADVANCE Custom
 
 本プログラムは、株式会社ビット・トレード・ワンが提供するREVIVE USB ADVANCEのファームウェアおよびWindowsアプリケーション「REVIVE USB ADVANCE Configuration Tool」を、オープンソースライセンスに基づいて改変したプログラムです。  
