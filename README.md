@@ -40,8 +40,10 @@ D1～D14のピンにロータリーエンコーダのA相/B相を接続して、
 以下のリンクをクリックしてzipファイルをダウンロードし、展開してください。  
 https://github.com/ushui/ADRADVA-REVIVE-ADVANCE-CUSTOM/raw/master/Revive_USB_Advance_Custom-latest.zip  
 1. ファームウェアの書き換え  
-Windows PCにREVIVE USB ADVANCEを接続し、以下の手順に沿ってファームウェアを書き換えてください（公式ドキュメントです）。 hexファイルはダウンロードした「ReviveAdvanceCustom.hex」を指定します。  
+Windows PCにREVIVE USB ADVANCEを接続し、以下の手順に沿ってファームウェアを書き換えてください（公式ドキュメントです）。  
 https://github.com/ushui/ADRADVA-REVIVE-ADVANCE-CUSTOM/tree/master/Writing-Tool  
+    - この時点ではまだカスタム版設定ツールを使用せず、公式設定ツールを使用してください。  
+    - hexファイルはダウンロードした「ReviveAdvanceCustom.hex」を指定してください。  
 1. カスタム版設定ツールの起動  
 ダウンロードした「Revive_USB_Advance_Custom_CT.exe」を起動してください。  
 右下に「FW Version: 1.0.0c」と表示されていればカスタム版ファームウェアが正しく適用されています。  
