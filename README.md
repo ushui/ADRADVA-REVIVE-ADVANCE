@@ -46,7 +46,7 @@ https://github.com/ushui/ADRADVA-REVIVE-ADVANCE-CUSTOM/tree/master/Writing-Tool
     - hexファイルはダウンロードした「ReviveAdvanceCustom.hex」を指定してください。  
 1. カスタム版設定ツールの起動  
 ダウンロードした「Revive_USB_Advance_Custom_CT.exe」を起動してください。  
-右下に「FW Version: 1.0.0c」と表示されていればカスタム版ファームウェアが正しく適用されています。  
+右下に「FW Version: 1.0.1c」と表示されていればカスタム版ファームウェアが正しく適用されています。  
 
 ## カスタム版設定ツールの追加変更箇所
 ### アナログ入力設定
